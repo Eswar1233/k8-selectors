@@ -13,6 +13,6 @@ spec:
     disktype: ssd
   tolerations:
   - key: "key1"
-    operator: "Exists"
+    operator: "Equal"
     value: "value1"
     effect: "NoSchedule"

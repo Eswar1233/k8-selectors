@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: Pod
-namespace: roboshop
 metadata:
   name: with-node-affinity
+  namespace: roboshop
 spec:
   affinity:
     nodeAffinity:

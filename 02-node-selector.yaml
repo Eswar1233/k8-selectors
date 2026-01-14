@@ -1,3 +1,4 @@
+--- # na node lo vere vallu evvaru pods ni  run cheyyakudadhu taints and toleration
 apiVersion: v1
 kind: Pod
 metadata:
